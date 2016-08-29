@@ -26,7 +26,7 @@
 3. 编辑 `README.md`，在讨论班下添加自己的名字
 4. 提交 Pull Request
 
-请务必学会使用 GitHub。
+请务必学会使用 GitHub，如何提交 Pull Request 请参考[这里](https://techo.io/topic/121/2016/3)。
 
 <h2 id="csapp">深入理解计算机系统</h2>
 
