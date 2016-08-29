@@ -19,13 +19,14 @@
 - [《面向机器学习的神经网络》](#deeplearning)
 
 
-如何将加入一个讨论班：
+如何加入一个讨论班：
 
-1. Fork 此项目
-2. 编辑 `README.md`，在讨论班下添加自己的名字
-3. 提交 Pull Request
+1. 加入QQ群
+2. Fork 此项目
+3. 编辑 `README.md`，在讨论班下添加自己的名字
+4. 提交 Pull Request
 
-请务必学会使用 Github。
+请务必学会使用 GitHub。
 
 <h2 id="csapp">深入理解计算机系统</h2>
 
