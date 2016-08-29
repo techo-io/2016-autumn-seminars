@@ -46,7 +46,7 @@
 <h2 id="sicp">计算机程序的构造与解释</h2>
 
 - 参与人员
- + 一区 [@dontpanic92](https://github.com/dontpanic92)、李博
+ + 一区 [@dontpanic92](https://github.com/dontpanic92)、李博、张征
  + 二区
 
 - 时间地点
@@ -62,7 +62,7 @@
 书目未定。
 
 - 参与人员
- + 一区：李博
+ + 一区：李博、张征
  + 二区
 
 - 时间地点
