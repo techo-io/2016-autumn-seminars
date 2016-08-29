@@ -10,13 +10,13 @@
 
 暂列如下，如果人数较少，将可能取消；如果希望增加讨论班课程，请在QQ群中发起讨论。
 
-- [《深入理解计算机系统》](#csapp)
-- [《计算机程序的构造与解释》](#sicp)
+- [《深入理解计算机系统》](#csapp) - https://book.douban.com/subject/5333562/
+- [《计算机程序的构造与解释》](#sicp) - https://book.douban.com/subject/1148282/
 - [操作系统](#operating-system)
 - [C语言](#tcpl)
 - [汇编语言](#assembly-lang)
 - [Linux操作系统使用](#using-linux)
-- [《面向机器学习的神经网络》](#deeplearning)
+- [《面向机器学习的神经网络》](#deeplearning) - 时隔四年，深度学习鼻祖 Geoffrey Hinton 的[神经网络公开课](https://www.coursera.org/learn/neural-networks)再次登陆 Coursera
 
 
 如何加入一个讨论班：
